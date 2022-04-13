@@ -1,3 +1,5 @@
+#本文件仅为被引用的随机漫步系统
+
 from random import choice
 
 class RandomWalk():
